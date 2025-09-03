@@ -5,7 +5,7 @@ _A **Bank Management System** built in Python using **Object-Oriented Programmin
 ## Contents
 - <a href="#overview">Overview</a>
 - <a href="#features">Features</a>
-- <a href="#language and concepts>Language & Concepts</a>
+- <a href="#language and concepts">Language & Concepts</a>
 - <a href="#project-structure">Project Structure</a>
 - <a href="#conclusion">Conclusion</a>
 
