@@ -17,7 +17,7 @@ This project is designed OOP principles like classes, inheritance,polymorphism, 
 
 <h2><a class="anchor" id="features"></a>Features</h2>
 
-- MuCreate different types of bank accounts:
+- Create different types of bank accounts:
     - Savings Account
     - Current Acounts
     - Business Acounts
