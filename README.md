@@ -11,7 +11,7 @@ _A **Bank Management System** built in Python using **Object-Oriented Programmin
 
 ---
 <h2><a class="anchor" id="overview"></a>Overview</h2>
-This project is designed **OOP principles** like classes, inheritance,polymorphism, encapsulation, and file handling with JSON.
+This project is designed OOP principles like classes, inheritance,polymorphism, encapsulation, and file handling with JSON.
 
 ---
 
